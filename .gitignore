@@ -1,0 +1,65 @@
+# Visual Studio temporary files
+*.suo
+*.user
+*.csproj.user
+*.vspscc
+*.vssscc
+*.ncb
+*.opendb
+*.aps
+*.cache
+*.scc
+*.ilk
+*.pdb
+*.idb
+*.log
+*.ipch
+*.obj
+*.pch
+*.sbr
+*.tlb
+*.tmp
+*.rsp
+*.sln.docstates
+
+# Visual Studio solution and project files
+*.sln
+*.csproj
+
+# Temporary files
+/bin
+/obj
+/packages
+*.tmp
+*~
+
+# User specific files
+*.user
+
+# Build results
+*.exe
+*.dll
+*.mdb
+
+# Output files
+*.log
+
+# Documentation files
+*.xml
+
+# Visual Studio temporary files
+/Debug/
+/Release/
+
+# Generated code
+/obj/
+/bin/
+
+# Dependency packages
+/packages/
+
+# Local configuration files
+*.local
+
+# Test results
+/test-results/
